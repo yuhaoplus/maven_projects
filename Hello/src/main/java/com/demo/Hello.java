@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("我是hot-fix");
         System.out.println("我是master");
         System.out.println("ssh-push");
+        System.out.println("pull");
     }
 }
